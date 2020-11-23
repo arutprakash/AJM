@@ -1,11 +1,10 @@
 # AJM
 
-'Aam Janta' is an independent media house start-up founded on 22nd May 2020 by Sanju Ghosh. It is operated by him and his super energetic team. The primary moto of Aam Janta is:
+'Aam Janta Media' is an independent media house start-up based on ​Kolkata. This Media startup has been actively posting over 10 posts a day on various social media platforms
+(Website: https://www.aamjantamedia.com,
+​Instagram​: ​https://www.instagram.com/aamjantamedia/ , 
+Facebook​: ​https://www.facebook.com/aamjantamedia/ ,
+Twitter​: ​https://twitter.com/aamjantamedia?s=20 ​,
+LinkedIn​: ​https://www.linkedin.com/company/aamjanta/​ ​)
 
-•to provide instant news
-•to provide accurate news
-•to provide unbiased news
-
-We have travelled in time to reach a point where alongside millennials, the old-age people are also trying to learn to operate mobile phones and create social media accounts. The concept of being aware of a news through a newspaper only has been long lost.
- 
-Now is the time when people demand instant updates. We aim to provide fast and accurate news to the speedy generation who are always on the go. You can also raise your voice and let it be heard to the authorities through a super active feedback form provided by us which most of the media houses lack. You can also stay connected to us through our Instagram, Facebook, Twitter and LinkedIn profiles.
+With the number of articles published getting over 1000, the startup hired me as an intern to expand its presence to Android.

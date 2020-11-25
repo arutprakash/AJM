@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/content_gallery"
+            android:layout_width="320dp"
+            android:layout_height="475dp"
+            android:text="'Aam Janta' is an independent media house start-up founded on 22nd May 2020 by Sanju Ghosh. It is operated by him and his super energetic team. The primary moto of Aam Janta is:  •to provide instant news •to provide accurate news •to provide unbiased news We have travelled in time to reach a point where alongside millennials, the old-age people are also trying to learn to operate mobile phones and create social media accounts. The concept of being aware of a news through a newspaper only has been long lost.   Now is the time when people demand instant updates. We aim to provide fast and accurate news to the speedy generation who are always on the go. You can also raise your voice and let it be heard to the authorities through a super active feedback form provided by us which most of the media houses lack. You can also stay connected to us through our Instagram, Facebook, Twitter and LinkedIn profiles."
+            android:textAlignment="center"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.175"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.753" />
+
+        <TextView
+            android:id="@+id/text_gallery"
+            android:layout_width="284dp"
+            android:layout_height="34dp"
+            android:text="About"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.244"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.152" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</LinearLayout>
+
+
+
+
